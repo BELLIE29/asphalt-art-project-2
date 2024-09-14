@@ -20,8 +20,7 @@ This project was created on Code.org's JavaLab platform using the built in Neigh
 
 ![IMG_20240913_221110](https://github.com/user-attachments/assets/eea0863c-2d15-4f3f-be7a-dcce80b676ce)
 
-
-   ![(https://github.com/user-attachments/assets/8dfe0780-5763-4cdd-86d9-7f2039fb533c)]
+![image](https://github.com/user-attachments/assets/edc116b5-8121-4f79-b57a-d92ba7af0483)
 
 
 
