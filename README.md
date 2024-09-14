@@ -18,7 +18,10 @@ This project was created on Code.org's JavaLab platform using the built in Neigh
 
 ## Output:
 
-< Put sketch / Final image here >
+   ![(https://github.com/user-attachments/assets/8dfe0780-5763-4cdd-86d9-7f2039fb533c)]
+
+
+
 
 ## Reflection
 
